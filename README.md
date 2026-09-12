@@ -1,16 +1,16 @@
 # Olá, eu sou Ana 👋
 
-Sou estudante de Engenharia de Software focada em **IA, lógica de programação e prompts técnicos**.  
+Sou estudante de Engenharia de Software| Análise e Desenvolvimento de Sistemas focada em **IA, lógica de programação e banco de dados**.  
 Aqui você encontra meus projetos, estudos e experimentos.
 
 ## 🚀 Habilidades Técnicas
 - Python
-- Inteligência Artificial e Chatbots
+- Inteligência Artificial
 - Estruturação de Prompts
+- Modelagem de Banco de dados
 
 ## 📌 Projetos em Destaque
-- [Chatbot Especialista](link)
-- [Sistema de Recomendação](link)
+- 
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-julia-an)
