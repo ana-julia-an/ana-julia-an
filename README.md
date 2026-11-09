@@ -10,7 +10,8 @@ Aqui você encontra meus projetos, estudos e experimentos.
 - Modelagem de Banco de dados
 
 ## 📌 Projetos em Destaque
-- 
+- PorquiNho Pet
+- TalktoMe Insights AI
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-julia-an)
